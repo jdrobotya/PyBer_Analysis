@@ -16,5 +16,5 @@ When I shrinked the data to the weekly fare for each city type for the rides pro
 
 ### Summary: three business recommendations to the CEO for addressing any disparities among the city types.
 1. Since  urban trips are shorter than rural, it would make sense to increase the fare based on the specific day time. For example, in the morning/evening , when everyone is in a rush to get to/out of  work/school etc. 
-2. I'd recommend  moving more drivers to provide Suburban trips if there is a demand.  The trips will be  a little bit longer, but the fare will be higher and there will be less turnover of riders.
+2. I'd recommend  moving more drivers to provide Suburban trips if there is a demand.  The trips will be  a little bit longer, but the fare will be higher and there will be less turnover of riders. As the graph shows, the best month to do that change will be Apriil. Suburban fare starts to increase at that time, urban total fare decreases in April.
 3. I'd recommend Rural divers to provide trips at Suburban cities as well to increase the Total Fare.
